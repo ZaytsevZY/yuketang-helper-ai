@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AI雨课堂助手
 // @version      1.11.0
-// @namespace    https://github.com/ZaytsevZY/
+// @namespace    https://github.com/ZaytsevZY/yuketang-helper-ai
 // @author       ZaytsevZY/
 // @description  雨课堂辅助工具：课堂习题提示，AI解答习题
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yuketang.cn
