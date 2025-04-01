@@ -1,12 +1,12 @@
-# ykt-helper
+# yuketang-helper-ai
 
 一个雨课堂辅助工具。
 
-如果浏览器已经安装了 Tampermonkey 插件，可以 [点此安装](https://raw.githubusercontent.com/hotwords123/yuketang-helper/gh-pages/yuketang-helper.user.js)。
+forked from github.com/hotwords123/yuketang-helper
 
-目前已经迁移到 [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) 框架，旧版脚本在 [legacy](https://github.com/hotwords123/yuketang-helper/tree/legacy) 分支。
+如果浏览器已经安装了 Tampermonkey 插件，可以 [点此安装](123)。(暂时未实装)
 
-**2024.10 更新：雨课堂疑似修复了在网页端直接返回题目答案的 feature，因此目前习题答案提示功能无法正常使用（其它功能仍然可以正常使用）。**
+// TODO
 
 ## 功能介绍
 
