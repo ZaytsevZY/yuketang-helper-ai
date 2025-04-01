@@ -6,6 +6,8 @@ forked from github.com/hotwords123/yuketang-helper
 
 如果浏览器已经安装了 Tampermonkey 插件，可以 [点此安装](123)。(暂时未实装)
 
+现在复制```yuketang-helper-ai.js```到油猴新建脚本中，应该能够使用。其余待更新。
+
 // TODO
 
 ## 功能介绍
