@@ -52,7 +52,7 @@ forked from [github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuke
 ### 2. 设置AI功能
 
 - 点击设置按钮（齿轮图标）
-- 输入你的DeepSeek API密钥（需要自行申请）
+- 输入你的DeepSeek API密钥（需要自行申请）[点击这里跳转到 Deepseek API 申请方法](#附录1-deepseek-api-申请方法)
 - 设置完成后即可使用AI解答功能
 
 ### 3. AI解答使用方法
@@ -72,7 +72,16 @@ forked from [github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuke
 
 - 本工具仅供学习参考，建议独立思考解决问题
 - AI解答功能需要使用Deepseek API，可能会产生API使用费用
+- 本项目不会线上存储用户的任何个人信息，只会将相关的题目信息上传给Deepseek
 
 ## 项目说明
 
 - 本项目基于[github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuketang-helper)开发，添加了AI解答功能。如有使用建议，欢迎在github提出。
+
+--------------------------------------------------
+
+## 附录1 Deepseek API 申请方法
+
+1. 访问[https://platform.deepseek.com](https://platform.deepseek.com)，进行注册登录
+2. 点击左侧API keys一栏，点击创建API key，命名后会生成一串以sk开头的随机字符，就是key。保管好这个key，你可以将他复制到本地安全的地方。这个key不能再次生成！如果丢了，需要重新生成新的key。（生成key不花钱）
+3. 充值任意金额后，这个key就可以使用了。你可以将key设置到本项目中进行使用，或使用其他方式调用。
