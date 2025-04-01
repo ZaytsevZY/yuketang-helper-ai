@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         AI雨课堂助手
-// @version      1.11.0
+// @version      1.12.0
 // @namespace    https://github.com/ZaytsevZY/yuketang-helper-ai
 // @author       ZaytsevZY/
 // @description  雨课堂辅助工具：课堂习题提示，AI解答习题
+// @license MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yuketang.cn
 // @match        https://*.yuketang.cn/lesson/fullscreen/v3/*
 // @match        https://*.yuketang.cn/v2/web/*
@@ -17,7 +18,6 @@
 // @grant        unsafeWindow
 // @run-at       document-start
 // @require      https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js
-// @licence      MIT
 // ==/UserScript==
 
 // 感谢hotwords123前辈制作的雨课堂助手。本助手基于本仓库修改：https://github.com/hotwords123/yuketang-helper
@@ -770,7 +770,8 @@ function createTutorialPanel() {
             <div class="tutorial-content">
                 <h4>功能介绍</h4>
                 <p>AI雨课堂助手是一个为雨课堂提供辅助功能的工具，可以帮助你更好地参与课堂互动。</p>
-                <p>项目地址：https://github.com/ZaytsevZY/yuketang-helper-ai</p>
+                <p>项目仓库：https://github.com/ZaytsevZY/yuketang-helper-ai</p>
+                <p>插件安装地址：https://greasyfork.org/zh-CN/scripts/531469-ai雨课堂助手</p>
 
                 <h4>工具栏按钮说明</h4>
                 <ul>
