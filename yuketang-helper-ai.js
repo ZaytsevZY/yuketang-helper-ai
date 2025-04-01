@@ -17,6 +17,7 @@
 // @grant        unsafeWindow
 // @run-at       document-start
 // @require      https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js
+// @licence      MIT
 // ==/UserScript==
 
 // 感谢hotwords123前辈制作的雨课堂助手。本助手基于本仓库修改：https://github.com/hotwords123/yuketang-helper
