@@ -770,6 +770,7 @@ function createTutorialPanel() {
             <div class="tutorial-content">
                 <h4>功能介绍</h4>
                 <p>AI雨课堂助手是一个为雨课堂提供辅助功能的工具，可以帮助你更好地参与课堂互动。</p>
+                <p>项目地址：https://github.com/ZaytsevZY/yuketang-helper-ai</p>
 
                 <h4>工具栏按钮说明</h4>
                 <ul>
