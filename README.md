@@ -78,6 +78,13 @@ forked from [github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuke
 
 - 本项目基于[github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuketang-helper)开发，添加了AI解答功能。如有使用建议，欢迎在github提出。
 
+
+## 更新记录
+
+1.15.0: 加入了大模型答案的模糊匹配，关闭了自动刷新页面
+1.14.0: 优化了自动作答的开启关闭的逻辑，加入了自动刷新页面
+1.13.0: 加入了自动作答
+1.12.0: 可以实现ai作答
 --------------------------------------------------
 
 ## 附录1 Deepseek API 申请方法
