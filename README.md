@@ -1,5 +1,9 @@
 # yuketang-helper-ai
 
+已经废弃。仓库迁移至
+https://github.com/ZaytsevZY/yuketang-helper
+
+
 一个雨课堂辅助工具。提供了题目获取，内置ai答题等功能。
 
 forked from [github.com/hotwords123/yuketang-helper](github.com/hotwords123/yuketang-helper)
